@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ContactTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_contact_text">Caroline❤</string>
+    <string name="contactname_1">Edgar</string>
+    <string name="contactname_2">Madeline</string>
+    <string name="contactname_3">Cole</string>
+    <string name="contactname_4">Esther</string>
+    <string name="contactname_5">Marlene</string>
+    <string name="contactname_6">Cecil</string>
+    <string name="contactname_7">Espinosa</string>
+    <string name="contactname_8">Morty</string>
+    <string name="contactname_9">Caty</string>
+    <string name="sample">Search Contacts</string>
+</resources>
